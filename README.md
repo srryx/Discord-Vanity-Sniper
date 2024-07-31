@@ -1,5 +1,6 @@
 # Discord-Vanity-Sniper
-a free discord vanity URL sniper
+- a free discord vanity URL sniper
+- 7/31/24 I WILL FULLY FIX THE ERRORS/BUGS IN THE CODE AT 20 STARS
 ## Information
 - Script should only be used for educational purposes
 - Free to use for anybody
@@ -18,4 +19,6 @@ a free discord vanity URL sniper
 - Clean the code up
 - Maybe a clean GUI in the future
 - Use multiple servers to snipe so if you claim a vanity you can keep running the sniper
-
+## Errors/Bugs
+- After 10/11 hours of running a error happens with gateway connecton ( will fix when i have motivation )
+- Add error handling for the error above
