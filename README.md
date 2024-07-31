@@ -6,6 +6,7 @@ a free discord vanity URL sniper
 ## How-to-use
 - Enter proxy details in `proxy.json` if you have a proxy server (Leave blank if not)
 - Enter guild id, token, and webhook in the `.env` file
+- 7/31/24 NO PROXIES NEEDED.
 ## Features
 - No proxies **required** but can use anyways
 - Sniper can run forever until something is claimed
